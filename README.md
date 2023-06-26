@@ -17,8 +17,8 @@ Warehouse Of Books adalah sebuah website yang dirancang khusus untuk membantu ad
 ![dashboard](...........)
 
 Sebagai admin di Warehouse Of Books, Anda memiliki akses penuh untuk mengelola ketersediaan buku. Berikut adalah fitur-fitur yang tersedia untuk Anda:
-- Register : 
-- Login: Fitur Login pada admin memungkinkan admin untuk langsung tertuju ke halaman dashboard dengan menu ............. .
+- Register : Fitur Register akan membutuhkan nama, email, dan password agar bisa menjadi admin.
+- Login: Fitur Login pada admin memungkinkan admin untuk langsung tertuju ke halaman dashboard dengan menu Dashboard, Products, Order, Customer, dan Admin Profile.
 - Manajemen Tabel Customer : Anda dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap 
 - Manajemen Tabel Product : Anda dapat 
 - Manajemen Tabel Order : Anda dapat
