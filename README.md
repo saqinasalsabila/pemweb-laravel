@@ -4,11 +4,11 @@
 
 *Pemrograman Website - C*
 1. Saqina Salsabila Larasati    -   [215150200111070]
-2. Nadhira Nurannisa            -   [21515020]
+2. Nadhira Nurannisa            -   [215150207111017]
 3. Julia Nur Fajrina            -   [215150201111039]
 4. Verizca Maudia Putri         -   [215150207111088]
 
-## Tugas Akhir Pemrograman Website
+## Tugas Akhir Pemrograman Web
 Nama Website : Warehouse Of Books
 
 Warehouse Of Books adalah sebuah website yang dirancang khusus untuk membantu admin dalam mengatur dan mengelola ketersediaan buku di sebuah perpustakaan. Website ini memberikan kemudahan bagi admin untuk mengecek ketersediaan buku, melihat data order buku dari customer. Website ini dirancang untuk satu peran utama, yaitu Admin, dengan fitur-fitur yang disesuaikan sesuai peran.
