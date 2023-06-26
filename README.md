@@ -41,5 +41,6 @@ Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ket
 - `cp .env.example .env`
 - Ubah ke `.env`
 - `php artisan key:generate`
-- Buat database `......` di PHP MyAdmin
+- Buat database `laravel` di PHP MyAdmin
 - `php artisan migrate`
+- `php artisan db:seed`
