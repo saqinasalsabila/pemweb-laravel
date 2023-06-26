@@ -26,7 +26,7 @@ Sebagai admin di Warehouse Of Books, Anda memiliki akses penuh untuk mengelola k
 
 Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ketersediaan buku. Dengan fitur-fitur yang disesuaikan untuk admin, website ini memudahkan koordinasi antara perpustakaan dan admin untuk memastikan pengalaman yang baik dalam melihat berbagai data.
 
-## Lampiran Beberapa Screenshot
+## Lampiran Screenshot
 ### Admin
 1. .........
 ![.....](.......)
