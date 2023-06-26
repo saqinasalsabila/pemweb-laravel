@@ -1,7 +1,5 @@
 @extends('layouts.app')
-  
-@section('title', 'Create Product')
-  
+    
 @section('contents')
     <h1 class="mb-0">Add Product</h1>
     <hr />
