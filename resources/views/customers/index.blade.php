@@ -13,7 +13,13 @@
             {{ Session::get('success') }}
         </div>
     @endif
-    <table class="table table-hover">
+    <form action="/customers" class="d-none d-sm-inline-block form-inline ml-auto mr-md-3 my-2 my-md-0 mw-100 navbar-search mb-3" method="GET">
+        <div class="input-group">
+            <input type="text" name="search" class="form-control border-20 small" placeholder="Search Customer" aria-label="Search" aria-describedby="basic-addon2">
+        </div>
+    </form>
+
+    <table class="table table-hover mt-3">
         <thead class="table-primary">
             <tr>
                 <th>#</th>

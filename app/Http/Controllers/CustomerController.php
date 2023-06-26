@@ -8,9 +8,13 @@ use App\Models\Customer;
 class CustomerController extends Controller
 {
     //
-    public function index()
+    public function index(Request $request)
     {
-        $customer = Customer::orderBy('created_at', 'DESC')->get();
+        if($request->has('search')){
+            $customer = Customer::where('name', 'LIKE','%'. $request->search. '%')->get();
+        }else{
+            $customer = Customer::orderBy('created_at', 'DESC')->get();
+        }
   
         return view('customers.index', compact('customer'));
     }
