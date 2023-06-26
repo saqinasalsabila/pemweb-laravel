@@ -19,13 +19,12 @@ Warehouse Of Books adalah sebuah website yang dirancang khusus untuk membantu ad
 Sebagai admin di Warehouse Of Books, Anda memiliki akses penuh untuk mengelola ketersediaan buku. Berikut adalah fitur-fitur yang tersedia untuk Anda:
 - Register : Fitur Register akan membutuhkan nama, email, dan password agar bisa menjadi admin.
 - Login: Fitur Login pada admin memungkinkan admin untuk langsung tertuju ke halaman dashboard dengan menu Dashboard, Products, Order, Customer, dan Admin Profile.
-- Manajemen Tabel Customer : Anda dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap 
-- Manajemen Tabel Product : Anda dapat 
-- Manajemen Tabel Order : Anda dapat
-- Manajemen Tabel Order Detail : Anda dapat
--  ...... : Anda dapat 
+- Manajemen Tabel Customer : Anda dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data customer. Anda dapat menambah customer, melihat daftar customer, mengubah informasi customer, dan menghapus data customer jika itu diperlukan.
+- Manajemen Tabel Product : Anda dapat melakukan operasi CRUD (Create, Read, Update, Delete) terhadap data buku. Anda dapat menambahkan buku, melihat daftar buku, mengubah informasi buku, dan menghapus data buku jika itu diperlukan.
+- Manajemen Tabel Order : Anda dapat melihat semua order dari customer.
+- Manajemen Tabel Order Detail : Anda dapat melihat order dari setiap customer secara detail.
 
-Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ketersediaan buku. Dengan fitur-fitur yang disesuaikan untuk admin, website ini memudahkan koordinasi antara perpustakaan dan admin(?) untuk memastikan pengalaman yang baik dalam melihat berbagai data.
+Warehouse Of Books membantu mempercepat dan mengoptimalkan proses pengecekan ketersediaan buku. Dengan fitur-fitur yang disesuaikan untuk admin, website ini memudahkan koordinasi antara perpustakaan dan admin untuk memastikan pengalaman yang baik dalam melihat berbagai data.
 
 ## Lampiran Beberapa Screenshot
 ### Admin
